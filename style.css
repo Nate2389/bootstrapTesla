@@ -19,3 +19,7 @@ a {
 .dropdownMenuButton {
     position: relative;
 }
+.btn {
+    color: white;
+    text-decoration: none;
+}
